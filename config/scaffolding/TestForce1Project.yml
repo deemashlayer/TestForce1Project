@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestForce1Project
+  gitServerName: dima
+  gitUrl: https://github.com/deemashlayer/TestForce1Project
+  gitUsername: deemashlayer
+  gitBranch: main
